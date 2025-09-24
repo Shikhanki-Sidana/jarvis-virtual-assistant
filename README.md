@@ -18,10 +18,5 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## Git setup
-```bash
-git init
-git add .
-git commit -m "Initial commit: Jarvis assistant"
 ```
 
